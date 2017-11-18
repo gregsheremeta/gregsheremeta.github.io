@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to my home page.
 
-You can use the [editor on GitHub](https://github.com/gregsheremeta/gregsheremeta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a software engineer and dog rescuer in Cary, North Carolina :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I develop open source software at [Red Hat](http://www.redhat.com/). I'm currently working on (Red Hat Virtualization)[https://www.redhat.com/en/technologies/virtualization/enterprise-virtualization]. I love open source software, and I'm very fortunate and grateful that this is my career.
 
-### Markdown
+Computers and technology are my main hobby. I enjoy playing with home automation, security cameras, and other geeky things. I also enjoy building just about anything, whether it's an electronics project or home improvement.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My wife Candace and I also run a small senior dog rescue, and we currently have 11 wonderful rescue dogs in our home! Please visit and like our Facebook page, [Simba's Seniors Dog Sanctuary](https://www.facebook.com/simbasseniors).
 
-```markdown
-Syntax highlighted code block
+### Links
 
-# Header 1
-## Header 2
-### Header 3
+Pictures of dogs: [Facebook](https://www.facebook.com/gsheremeta)
+More pictures of dogs: [Simba's Seniors Dog Sanctuary](https://www.facebook.com/simbasseniors)
+My online resume: [Linked In](http://www.linkedin.com/in/gsheremeta)
+I don't tweet, ever: [Twitter](http://www.twitter.com/gregsheremeta)
+Some code I wrote: [Github](https://github.com/gregsheremeta)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gregsheremeta/gregsheremeta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks for visiting :)
