@@ -17,3 +17,7 @@ I don't tweet, ever: [Twitter](http://www.twitter.com/gregsheremeta)<br/>
 Some code I wrote: [Github](https://github.com/gregsheremeta)
 
 Thanks for visiting :)
+
+![Greg and Lily](greg_and_lily.png)
+
+![Greg, Candace, Evan, Toby](greg_candace_evan_toby.png)
