@@ -2,7 +2,7 @@
 
 I'm a software engineer and dog rescuer in Cary, North Carolina :)
 
-I develop open source software at [Red Hat](https://www.redhat.com/). I'm currently working on [Red Hat OpenShift](https://www.openshift.com/).
+I build software at [Red Hat](https://www.redhat.com/). I'm currently working on [Red Hat OpenShift](https://www.openshift.com/).
 
 My wife Candace and I also run a small senior dog rescue, and we usually have 5 to 10 little rescue dogs in our home! Please visit and like our Facebook page, [Simba's Seniors Dog Sanctuary](https://www.facebook.com/simbasseniors).
 
@@ -16,6 +16,4 @@ I try to avoid writing code: [Github](https://github.com/gregsheremeta)
 
 Thanks for visiting :)
 
-![Greg and Lily](greg_and_lily.png)
-
-![Greg, Candace, Evan, Toby](greg_candace_evan_toby.png)
+![Greg and Stuart](greg_stuart_640.jpg)
