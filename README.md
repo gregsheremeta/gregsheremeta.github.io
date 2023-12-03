@@ -2,7 +2,7 @@
 
 I'm a crazy dog person and software engineer in Cary, North Carolina :)
 
-I build software at [Red Hat](https://www.redhat.com/). I'm currently working on our AI/ML offering, [Red Hat OpenShift Data Science](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-data-science).
+I build software at [Red Hat](https://www.redhat.com/). I'm currently working on our AI/ML offering, [Red Hat OpenShift AI](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-ai).
 
 I enjoy volunteering for [Chihuahua Rescue and Transport](https://www.chihuahua-rescue.com/southeast/).
 
